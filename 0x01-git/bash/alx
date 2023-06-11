@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX"
 <<<<<<< HEAD
 echo "ALX School is so cool!"
@@ -10,3 +11,7 @@ echo "ALX School"
 echo "ALX School"
 
 >>>>>>> f561bd0711727c01daa6f9edd7974d5b34f79a15
+=======
+echo "ALX"
+echo "ALX School is so cool!"
+>>>>>>> a11a45b60f8f45b2599900c831350349ccdbf364
